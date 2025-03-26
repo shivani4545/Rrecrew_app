@@ -1,0 +1,2 @@
+/Users/pavan/Downloads/employee 2/android/app/.cxx/Debug/356064f3/x86_64/CMakeFiles/edit_cache.dir
+/Users/pavan/Downloads/employee 2/android/app/.cxx/Debug/356064f3/x86_64/CMakeFiles/rebuild_cache.dir

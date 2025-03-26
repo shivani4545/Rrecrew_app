@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "382052241609",
+    "project_id": "hrms-48066",
+    "storage_bucket": "hrms-48066.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:382052241609:android:70a6a1929e54a4d9b3bd18",
+        "android_client_info": {
+          "package_name": "com.hrms"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "382052241609-023a32etrblm5mr80vafifnt6v91lmjd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjy-zTdKiIzob4YO1RgXm7uIbK4wWFdSk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "382052241609-023a32etrblm5mr80vafifnt6v91lmjd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
